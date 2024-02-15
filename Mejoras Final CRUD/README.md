@@ -1,4 +1,4 @@
-# Proyecto CRUD BD 2022-2023 🚀
+# Proyecto CRUD BD 2023-2024
 
 ## Descripción 📖
 
@@ -25,7 +25,3 @@ Realizar una aplicación funcional que implemente modelo Vista Controlador (MVC)
 ✅ `9.` Controlar el acceso a la aplicación en función del rol, si es 0 solo puede acceder a visualizar los datos: lista y detalles. Si el rol es 1 podrá además modificar, borrar y eliminar usuarios.
 
 ✅ `10.` Utilizar geoip y el api para javascript https://openlayers.org o similar para mostrar la localización geográfica del cliente en un mapa en función de su IP.
-
-## Autor ✒️
-
-- **Marcos Alloza** - [Alloz4](https://github.com/Alloz4)

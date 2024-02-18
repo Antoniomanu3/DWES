@@ -6,7 +6,7 @@ define('FPAG', 10); // Número de filas por página
 require_once 'app/helpers/util.php';
 require_once 'app/config/configDB.php';
 require_once 'app/models/Cliente.php';
-require_once 'app/models/AccesoDatos.php';
+require_once 'app/models/AccesoDatosPDO.php';
 require_once 'app/controllers/crudclientes.php';
 
 //---- PAGINACIÓN ----

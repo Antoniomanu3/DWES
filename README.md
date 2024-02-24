@@ -13,9 +13,9 @@
    cliente con id XXX.~~
 6) ~~Permitir subir o cambiar la foto del cliente en modificar y en nuevo.~~
 7) Generar un PDF con los todos detalles de un cliente ( Incluir un botón que indique imprimir)
-8) Crear una nueva tabla en la BD de usuarios de la aplicación (User) con tres campos: login, password( encriptada ) y
+8) ~~Crear una nueva tabla en la BD de usuarios de la aplicación (User) con tres campos: login, password( encriptada ) y
    rol (0/1), definir varios usuarios y controlar el acceso a la aplicación sólo si se introduce el login y el password
-   correctos.
+   correctos.~~
 9) Controlar el acceso a la aplicación en función del rol, si es 0 solo puede acceder a visualizar los datos: lista y
    detalles. Si el rol es 1 podrá además modificar, borrar y eliminar usuarios.
 10) ~~Utilizar geoip y el api para javascript https://openlayers.org para mostrar la localización geográfica del cliente
